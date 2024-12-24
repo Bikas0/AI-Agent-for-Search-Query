@@ -1,0 +1,7 @@
+phidata==2.7.5
+python-dotenv==1.0.1
+groq==0.13.1
+yfinance==0.2.51
+duckduckgo-search==7.0.2
+streamlit
+openai==1.58.1
