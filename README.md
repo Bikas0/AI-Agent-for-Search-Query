@@ -53,7 +53,7 @@ python agent.py
 Provide input queries in natural language (e.g., "Summarize and compare analyst recommendations and fundamentals for TESLA and NVIDIA").
 
 <b>Response Output</b>
-![response](output.png)
+![response](response.png)
 
 
 <b>License</b>
