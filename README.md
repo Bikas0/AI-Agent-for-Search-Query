@@ -64,6 +64,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or support, please contact:
 
-- **Email:** [Email me](mailto:bikasictiu1718@gmail.com)
+- **Email:** [bikasictiu1718@gmail.com](mailto:bikasictiu1718@gmail.com)
 - **Portfolio:** [Portfolio](https://bikas0.github.io/)
 
